@@ -1,10 +1,16 @@
 # Table of contents
 
-* [소개](README.md)
+* [Welcome](README.md)
 
-## 캐릭터 설정
+## Getting Started
 
-* [살펴보기](prompt/overview.md)
-* [캐릭터 속성](prompt/spec.md)
-* [예제: 앵무혁](prompt/sample_a.md)
-* [예제: 태풍](prompt/sample_taepung.md)
+* [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
+
+## Basics
+
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [Integrations](basics/integrations.md)
