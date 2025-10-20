@@ -38,21 +38,31 @@ Welcome to Neona Creator! This documentation will guide you through the details 
             <td>
                 <h4><i class="fa-bolt">:bolt:</i></h4>
             </td>
-            <td><strong>Quickstart</strong></td>
-            <td>Create your first character</td>
+            <td><strong>살펴보기</strong></td>
+            <td>캐릭터 정체성, 대화 규칙, 경험 설계 등 프롬프트 작성을 위한 주요 속성과 예제를 안내합니다.</td>
             <td></td>
             <td></td>
-            <td><a href="getting-started/quickstart.md">quickstart.md</a></td>
+            <td><a href="prompt/overview.md">overview.md</a></td>
         </tr>
         <tr>
             <td>
                 <h4><i class="fa-leaf">:globe-pointer:</i></h4>
             </td>
-            <td><strong>Prompt basics</strong></td>
-            <td>Learn the basics of prompt</td>
+            <td><strong>캐릭터 속성</strong></td>
+            <td>캐릭터 성격을 바꾸기 위해 입력할 수 있는 기본적인 정보 요소에 대한 참조입니다. </td>
             <td></td>
             <td></td>
-            <td><a href="prompt/overview.md">overview.md</a></td>
+            <td><a href="prompt/spec.md">spec.md</a></td>
+        </tr>
+        <tr>
+            <td>
+                <h4><i class="fa-user-ninja">:magic_wand:</i></h4>
+            </td>
+            <td><strong>예제: 앵무혁 </strong></td>
+            <td>철학자 전사 앵무새 '앵무혁' 프롬프트의 완성 예시를 확인할 수 있습니다.</td>
+            <td></td>
+            <td></td>
+            <td><a href="prompt/sample_a.md">sample_a.md</a></td>
         </tr>
     </tbody>
 </table>
