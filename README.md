@@ -16,12 +16,10 @@ layout:
     visible: true
 ---
 
-# Welcome
+# 소개
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Neona Creator에 오신 것을 환영합니다! 이 문서는 나만의 캐릭터를 만드는 방법과 런칭 절차를 단계별로 안내합니다.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+### 바로 시작하기
 
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>살펴보기</strong></td><td>캐릭터 정체성, 대화 규칙, 경험 설계 등 프롬프트 작성을 위한 주요 속성과 예제를 안내합니다.</td><td></td><td></td><td><a href="undefined/overview.md">overview.md</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>캐릭터 속성</strong></td><td>캐릭터 성격을 바꾸기 위해 입력할 수 있는 기본적인 정보 요소에 대한 참조입니다.</td><td></td><td></td><td><a href="undefined/spec.md">spec.md</a></td></tr><tr><td><i class="fa-user-ninja">:user-ninja:</i></td><td><strong>예제: 앵무혁</strong></td><td>철학자 전사 앵무새 '앵무혁' 프롬프트의 완성 예시를 확인할 수 있습니다.</td><td></td><td></td><td><a href="undefined/sample_a.md">sample_a.md</a></td></tr></tbody></table>
