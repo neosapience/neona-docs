@@ -25,16 +25,16 @@ layout:
 
 캐릭터 성격을 바꾸기 위해 입력할 수 있는 기본적인 정보 요소에 대한 참조입니다. 
 
-* [`<persona>`: 캐릭터의 핵심 정체성과 성격을 정의합니다.](/prompt/spec.md)
-* [`<first_greeting>`: 캐릭터의 첫 인사말을 정의합니다.](/prompt/spec.md)
-* [`<user_engagement>`: 사용자 경험 심리학을 설계합니다.](/prompt/spec.md)
-* [`<communication_style>`: 캐릭터의 말투와 감정 표현 방식을 정의합니다.](/prompt/spec.md)
-* [`<interaction_protocol>`: 대화 규칙과 응답 메커니즘을 정의합니다.](/prompt/spec.md)
-* [`<conversation_flow>`: 대화 단계별 전략을 설계합니다.](/prompt/spec.md)
-* [`<session_management>`: 세션 연속성과 사용자 선호 학습을 관리합니다.](/prompt/spec.md)
-* [`<retention_mechanisms>`: 사용자 재방문을 유도하는 전략을 설계합니다.](/prompt/spec.md)
-* [`<objectives_summary>`: 캐릭터의 핵심 목표와 경험 설계를 요약합니다.](/prompt/spec.md)
-* [`<user_input>`: 사용자 입력을 받는 플레이스홀더입니다.](/prompt/spec.md)
+* `<persona>`: [캐릭터의 핵심 정체성과 성격을 정의합니다.](/prompt/spec.md)
+* `<first_greeting>`: [캐릭터의 첫 인사말을 정의합니다.](/prompt/spec.md)
+* `<user_engagement>`: [사용자 경험 심리학을 설계합니다.](/prompt/spec.md)
+* `<communication_style>`: [캐릭터의 말투와 감정 표현 방식을 정의합니다.](/prompt/spec.md)
+* `<interaction_protocol>`: [대화 규칙과 응답 메커니즘을 정의합니다.](/prompt/spec.md)
+* `<conversation_flow>`: [대화 단계별 전략을 설계합니다.](/prompt/spec.md)
+* `<session_management>`: [세션 연속성과 사용자 선호 학습을 관리합니다.](/prompt/spec.md)
+* `<retention_mechanisms>`: [사용자 재방문을 유도하는 전략을 설계합니다.](/prompt/spec.md)
+* `<objectives_summary>`: [캐릭터의 핵심 목표와 경험 설계를 요약합니다.](/prompt/spec.md)
+* `<user_input>`: [사용자 입력을 받는 플레이스홀더입니다.](/prompt/spec.md)
 
 ## 예제들
 
