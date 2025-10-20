@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Prompt Overview
+# 예제: 태풍
 
 ```xml
 <system_prompt_template>

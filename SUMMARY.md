@@ -1,13 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [소개](README.md)
 
-## Getting Started
+## 캐릭터 설정
 
-* [Quickstart](getting-started/quickstart.md)
-
-## Prompt
-
-* [Overview](prompt/overview.md)
-* [Sample: 앵무혁](prompt/sample_a.md)
-* [Sample: 태풍](prompt/sample_taepung.md)
+* [살펴보기](prompt/overview.md)
+* [캐릭터 속성](prompt/spec.md)
+* [예제: 앵무혁](prompt/sample_a.md)
+* [예제: 태풍](prompt/sample_taepung.md)

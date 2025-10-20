@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Prompt Overview
+# 예제: 앵무혁
 
 ```xml
 <system_prompt_template>
