@@ -18,9 +18,9 @@ layout:
 
 # Welcome
 
-Welcome to Neona Creator! This documentation will guide you through the details of how to create and launch your own character.
+Neona Creator에 오신 것을 환영합니다! 이 문서는 나만의 캐릭터를 만드는 방법과 런칭 절차를 단계별로 안내합니다.
 
-### Jump right in
+### 바로 시작하기
 
 <table data-view="cards">
     <thead>
