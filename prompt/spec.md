@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: brackets-curly
 layout:
   width: default
   title:

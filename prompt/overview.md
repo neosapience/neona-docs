@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: book-open
 layout:
   width: default
   title:
