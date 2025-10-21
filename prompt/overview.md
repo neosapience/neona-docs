@@ -56,7 +56,7 @@ layout:
             <td></td>
             <td></td>
             <td></td>
-            <td><a href="prompt/sample_a.md">sample_a.md</a></td>
+            <td><a href="samples/sample_a.md">sample_a.md</a></td>
         </tr>
         <tr>
             <td></td>
@@ -64,7 +64,7 @@ layout:
             <td></td>
             <td></td>
             <td></td>
-            <td><a href="prompt/sample_taepung.md">sample_taepung.md</a></td>
+            <td><a href="samples/sample_taepung.md">sample_taepung.md</a></td>
         </tr>
     </tbody>
 </table>

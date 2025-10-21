@@ -6,5 +6,8 @@
 
 * [살펴보기](prompt/overview.md)
 * [캐릭터 속성](prompt/spec.md)
-* [예제: 앵무혁](prompt/sample_a.md)
-* [예제: 태풍](prompt/sample_taepung.md)
+
+## 예제
+
+* [예제: 앵무혁](samples/sample_a.md)
+* [예제: 태풍](samples/sample_taepung.md)
